@@ -28,6 +28,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <packaging>jar</packaging>
+
     <build>
         <finalName>example_for_jenkins</finalName>
         <plugins>
