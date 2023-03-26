@@ -50,7 +50,7 @@
 
                 <configuration>
                     <includeSystemScope>true</includeSystemScope>
-                    <mainClass>src/main/java/org/example/Application.java</mainClass>
+                    <mainClass>org.example.Application</mainClass>
                 </configuration>
 
             </plugin>
